@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "237753963962",
+    "firebase_url": "https://indycivichack2016.firebaseio.com",
+    "project_id": "indycivichack2016",
+    "storage_bucket": "indycivichack2016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237753963962:android:8f090823e44ce2a7",
+        "android_client_info": {
+          "package_name": "com.example.kenny.indycivichack2016"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237753963962-a1qhs3qnq9bvokcfhf4tpa7q9fi40u0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskra4dmgbpg41dp6AO_CAcbnzM-Fy-74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
